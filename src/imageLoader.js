@@ -2,7 +2,6 @@
  * Created by 王宜明 on 2017/3/20.
  */
 "use strict";
-
 /**
  *  预加载图片函数
  * @param images 加载图片的数组或者对象
